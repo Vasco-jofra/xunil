@@ -1,0 +1,10 @@
+extraction:
+   cpp:
+      prepare:
+         packages:
+            - build-essential
+            - libncurses-dev
+            - bison
+            - flex
+            - libssl-dev
+            - libelf-dev
