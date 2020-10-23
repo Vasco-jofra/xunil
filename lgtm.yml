@@ -8,3 +8,6 @@ extraction:
             - flex
             - libssl-dev
             - libelf-dev
+
+queries:
+   - exclude: "*"
